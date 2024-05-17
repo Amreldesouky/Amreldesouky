@@ -50,8 +50,10 @@
 
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedabdelaleem&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<p align="left">
+  <!-- Replace this image URL with the actual URL of your static image displaying the desired language percentages -->
+  <img src="https://example.com/your-custom-language-stats.png" alt="most used languages" />
+</p>
 <br>
 <a href="https://komarev.com/ghpvc/?username=mohammedabdelaleem&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mohammedabdelaleem&style=for-the-badge">
