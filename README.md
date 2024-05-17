@@ -50,62 +50,12 @@
 
 
 
-<script>
-// Sample data (replace with your desired percentages)
-var data = [
-  { language: "C++", value: 35 },
-  { language: "Python", value: 40 },
-  { language: "HTML", value: 5 },
-  { language: "CSS", value: 5 },
-  { language: "JavaScript", value: 5 },
-  { language: "SQL", value: 10 }
-];
+<p align="left">
+  <img src="https://i.imgur.com/your-image-id.png" alt="most used languages" />
+</p>
+<br>
+<a href="https://komarev.com/ghpvc/?username=mohammedabdelaleem&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mohammedabdelaleem&style=for-the-badge">
+</a>
 
-// Define the chart dimensions
-var width = 400;
-var height = 400;
-
-// Create the SVG element
-var svg = d3.select("svg")
-  .attr("width", width)
-  .attr("height", height);
-
-// Define the radius
-var radius = Math.min(width, height) / 2;
-
-// Create the color scale
-var color = d3.scaleOrdinal()
-  .domain(data.map(d => d.language)) // Use language names for color mapping
-  .range(d3.schemeSet3); // Choose a color scheme (adjust as needed)
-
-// Define the pie chart layout
-var pie = d3.pie()
-  .value(function(d) { return d.value; }) // Set value accessor
-
-// Create the pie chart slices
-var pieData = pie(data);
-
-// Create arc generator
-var arc = d3.arc()
-  .outerRadius(radius)
-  .innerRadius(radius * 0.8) // Adjust inner radius for donut effect
-
-// Draw pie chart slices
-var g = svg.selectAll(".arc")
-  .data(pieData)
-  .enter()
-  .append("g")
-  .attr("class", "arc");
-
-g.append("path")
-  .attr("d", arc)
-  .attr("fill", function(d) { return color(d.data.language); }) // Use color scale
-
-// Add labels (optional)
-g.append("text")
-  .attr("text-anchor", "middle")
-  .attr("transform", function(d) { return "translate(" + arc.centroid(d) + ")"; }) // Position labels
-  .text(function(d) { return d.data.language + ": " + d.data.value + "%"; }); // Display language and percentage
-
-</script>
 
