@@ -24,6 +24,11 @@
 </a>
 <a href="https://codeforces.com/profile/mohammed2222" target="_blank" title="My CodeForces Account"><img src="https://img.shields.io/badge/-Mohammed%20AbdElaleem-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 
+<a href="https://www.linkedin.com/in/amr-eldesouky-363163256" target="_blank" title="My LinkedIn Account"><img src="https://img.shields.io/badge/-Amr%20ElDesouky-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/amro.aldesouky" target="_blank" title="My Facebook Account"><img src="https://img.shields.io/badge/-Amro%20AlDesouky-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/amraldsoqi" target="_blank" title="My Codeforces Account"><img src="https://img.shields.io/badge/-Amr%20AlDesouky-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo)&nbsp;&nbsp;
