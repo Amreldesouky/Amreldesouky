@@ -12,17 +12,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer"
-      alt="AI Engineer"
-    />
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things"
-      alt="Always learning new things"
-      data-typing-delay="1000"  />
-  </a>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Always%20learning%20new%    things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22
 
 
 - 🏢 I'm a Software and AI Engineer.
