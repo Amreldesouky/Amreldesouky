@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://tenor.com/view/data-code-coding-facts-numbers-gif-27290748">
+<img width="250" align="right" src="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290748">
 
 <h3 align="center">
   Welcome to Amr Eldesouky profile!
