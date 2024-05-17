@@ -11,14 +11,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer.
+- 🏢 I'm a Software and AI Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C, C++,python, Data Structure, Algorithms, HTML, and CSS.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 💬 Ask me about my experience with C, C++, python, Data Structure, Algorithms,Database, OOP, HTML, CSS, Javascript, .
+
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohammed-abdelaleem-b100992a3/" target="_blank"  title="My Linkedin Account"><img src="https://img.shields.io/badge/-Mohammed%20AbdElaleem-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/amr-eldesouky-363163256" target="_blank"  title="My Linkedin Account"><img src="https://img.shields.io/badge/-Amr%Eldesouky-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100084661462924&locale=ar_AR" target="_blank"  title="My Facebook Account"><img src="https://img.shields.io/badge/-Mohammed%20AbdElaleem-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </a>
 <a href="https://codeforces.com/profile/mohammed2222" target="_blank" title="My CodeForces Account"><img src="https://img.shields.io/badge/-Mohammed%20AbdElaleem-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
