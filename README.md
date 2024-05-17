@@ -50,17 +50,4 @@
 
 
 
-## Programming Language Breakdown
-
-This project utilizes the following programming languages represented in a camo style:
-
-![Camo bar chart showing language usage](https://imgur.com/your_image_link.png)
-
-- C++ (35%)
-- Python (40%)
-- HTML (5%)
-- CSS (5%)
-- JavaScript (5%)
-- SQL (10%)
-
 
