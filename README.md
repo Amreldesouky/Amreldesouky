@@ -11,6 +11,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer"
+      alt="AI Engineer"
+    />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things"
+      alt="Always learning new things"
+      data-typing-delay="1000"  />
+  </a>
+</p>
+
+
 - 🏢 I'm a Software and AI Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C, C++, python, Data Structure, Algorithms,Database, OOP, HTML, CSS, Javascript, .
